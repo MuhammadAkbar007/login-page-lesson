@@ -1,0 +1,14 @@
+.up-container{
+    border: 1px solid #d9d8d8;
+}
+
+#password {
+    margin-bottom: 5px;
+}
+
+.forget {
+    color: white;
+    font-weight: bold;
+    margin: 0 0 0 250px;
+    cursor: pointer;
+}
